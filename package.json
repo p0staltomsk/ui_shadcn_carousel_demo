@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build --base=/ui_shadcn_carousel_demo/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
