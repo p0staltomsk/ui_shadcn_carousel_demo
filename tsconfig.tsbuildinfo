@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/theme-provider.tsx","./src/components/ui/badge.tsx","./src/components/ui/button.tsx","./src/components/ui/card.tsx","./src/components/ui/carousel.tsx","./src/lib/utils.ts","./src/types/next-themes.d.ts"],"version":"5.6.3"}
